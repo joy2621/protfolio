@@ -1,0 +1,22 @@
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.intro .col-lg-6 img{
+    width: 62%;
+    height: 90%;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+.coustom-2{
+    height:100px ;
+    width: 100px;
+    object-fit: cover;
+    margin: 0 auto;
+    
+}
+.back img{
+    height: 180px;
+    object-fit: cover;
+}

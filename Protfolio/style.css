@@ -1,0 +1,25 @@
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.latter-space{
+    letter-spacing: 3px;
+}
+.carousel-inner img{
+    height: 400px;
+}
+.coustom-1{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+.coustom-2{
+    height:100px ;
+    width: 100px;
+    object-fit: cover;
+    margin: 0 auto;
+    
+}
